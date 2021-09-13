@@ -1,5 +1,6 @@
 import Layout from '../components/Layout/Layout';
-import '../styles/globals.css'
+import '../styles/globals.css';
+import '@fontsource/roboto';
 
 function MyApp({ Component, pageProps }) {
 	return (
